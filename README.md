@@ -5,3 +5,4 @@ Sistema CRUD - Ciência da Computação I - PHP
 
 Sistema CRUD com Sessions para atividade avaliativa
 Ciência da Computação I - PHP
+Implementação com Sessions
